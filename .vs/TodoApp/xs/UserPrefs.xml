@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{58E8533E-71CE-46AC-8F84-7C08A7A44724}|Default">
+  <MonoDevelop.Ide.ItemProperties.TodoApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
+    <Files>
+      <File FileName="Views/Todos/Index.cshtml" Line="28" Column="59" />
+      <File FileName="Views/Todos/Edit.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Todos/Details.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Todos/Delete.cshtml" Line="1" Column="1" />
+      <File FileName="Views/Todos/Create.cshtml" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="21" Column="26" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="29" Column="110" />
+      <File FileName="Startup.cs" Line="36" Column="10" />
+      <File FileName="Migrations/20180604225902_InitialCreate.cs" Line="1" Column="1" />
+      <File FileName="Migrations/20180604225902_InitialCreate.Designer.cs" Line="1" Column="1" />
+      <File FileName="Migrations/MyDatabaseContextModelSnapshot.cs" Line="35" Column="33" />
+      <File FileName="Models/Todo.cs" Line="1" Column="1" />
+      <File FileName="LICENSE.md" Line="1" Column="1" />
+      <File FileName="bower.json" Line="1" Column="1" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+      <File FileName="README.md" Line="1" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
